@@ -30,9 +30,3 @@ It simulates intelligent shopping features like smart search, product recommenda
 >  This is a **frontend-only project** (no backend, no database).
 
 ---
-
-##  Getting Started
-cd Stefens-roll-website
-npm install
-npm run dev
-
